@@ -1,0 +1,19 @@
+{
+    "examples": [
+      {
+        "iconTitle": "music",
+        "title": "Music",
+        "question": "What are the most played songs in Europe in 2020?"
+      },
+      {
+        "iconTitle": "books",
+        "title": "Books",
+        "question": "Give me the list of the top five best-selling books on programming this year"
+      },
+      {
+        "iconTitle": "weather",
+        "title": "Weather",
+        "question": "Order the months of the year in Argentina from least hot to hottest"
+      }
+    ]
+  }
